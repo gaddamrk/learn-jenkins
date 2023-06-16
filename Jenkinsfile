@@ -12,7 +12,7 @@
 
 
 @Library('roboshop') _
-test1.new1()
+test.new1()
 
 // pipeline {
 //   agent any
